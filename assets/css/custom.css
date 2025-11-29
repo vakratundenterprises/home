@@ -1,0 +1,52 @@
+
+/* Button background */
+.btn-primary {
+    color: #fff;
+    background-color: #26A69A!important;
+    border-color: #26A69A!important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #00897B!important;
+    border-color: #00897B!important;
+}
+.heading-color{
+  color: #43e5d6!important;
+}
+.clients .client-logo img {
+    max-width: 65%;
+}
+.btn{
+	border-radius:0px!important;
+	
+}
+.products-bg{
+background-color: #f4f4f4!important;
+}
+
+/* Scrollbar  */
+  /* width */
+::-webkit-scrollbar {
+    width: 13px;
+    height: 15px;
+    
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #26A69A; 
+    /* background: #00897B;  */
+    
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #00897B; 
+    /* background: #00796B;  */
+}
